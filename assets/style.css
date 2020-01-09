@@ -155,3 +155,11 @@ p.promote a:hover{
 p.promote span{
 	color: #F26183;
 }
+
+#preview-wrapper {
+	display: flex;
+}
+
+.hidden {
+	display: none !important;
+}
